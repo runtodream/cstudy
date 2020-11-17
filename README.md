@@ -1,1 +1,1 @@
-# cstudy
+C++ study
